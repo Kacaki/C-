@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\bin\Debug\net6.0\exmpl_hello.exe
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\bin\Debug\net6.0\exmpl_hello.deps.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\bin\Debug\net6.0\exmpl_hello.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\bin\Debug\net6.0\exmpl_hello.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\bin\Debug\net6.0\exmpl_hello.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\refint\exmpl_hello.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\exmpl_hello.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_hello\obj\Debug\net6.0\ref\exmpl_hello.dll
