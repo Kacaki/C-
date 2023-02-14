@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\bin\Debug\net6.0\exmpl_if.exe
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\bin\Debug\net6.0\exmpl_if.deps.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\bin\Debug\net6.0\exmpl_if.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\bin\Debug\net6.0\exmpl_if.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\bin\Debug\net6.0\exmpl_if.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\refint\exmpl_if.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\exmpl_if.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_if\obj\Debug\net6.0\ref\exmpl_if.dll
