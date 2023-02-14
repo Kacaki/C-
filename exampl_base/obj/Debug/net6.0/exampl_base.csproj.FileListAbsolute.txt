@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\exampl_base\bin\Debug\net6.0\exampl_base.exe
+D:\Обучение на проджект-менеджер\Examples\exampl_base\bin\Debug\net6.0\exampl_base.deps.json
+D:\Обучение на проджект-менеджер\Examples\exampl_base\bin\Debug\net6.0\exampl_base.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\exampl_base\bin\Debug\net6.0\exampl_base.dll
+D:\Обучение на проджект-менеджер\Examples\exampl_base\bin\Debug\net6.0\exampl_base.pdb
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.dll
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\refint\exampl_base.dll
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.pdb
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\exampl_base.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\exampl_base\obj\Debug\net6.0\ref\exampl_base.dll
