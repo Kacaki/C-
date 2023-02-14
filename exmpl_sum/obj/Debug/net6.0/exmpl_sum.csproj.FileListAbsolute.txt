@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\bin\Debug\net6.0\exmpl_sum.exe
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\bin\Debug\net6.0\exmpl_sum.deps.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\bin\Debug\net6.0\exmpl_sum.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\bin\Debug\net6.0\exmpl_sum.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\bin\Debug\net6.0\exmpl_sum.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\refint\exmpl_sum.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\exmpl_sum.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_sum\obj\Debug\net6.0\ref\exmpl_sum.dll
