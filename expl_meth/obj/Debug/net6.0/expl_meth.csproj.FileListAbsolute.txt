@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\expl_meth\bin\Debug\net6.0\expl_meth.exe
+D:\Обучение на проджект-менеджер\Examples\expl_meth\bin\Debug\net6.0\expl_meth.deps.json
+D:\Обучение на проджект-менеджер\Examples\expl_meth\bin\Debug\net6.0\expl_meth.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\expl_meth\bin\Debug\net6.0\expl_meth.dll
+D:\Обучение на проджект-менеджер\Examples\expl_meth\bin\Debug\net6.0\expl_meth.pdb
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.dll
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\refint\expl_meth.dll
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.pdb
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\expl_meth.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\expl_meth\obj\Debug\net6.0\ref\expl_meth.dll
