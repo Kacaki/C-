@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\bin\Debug\net6.0\exmpl_ArrayLib.exe
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\bin\Debug\net6.0\exmpl_ArrayLib.deps.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\bin\Debug\net6.0\exmpl_ArrayLib.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\bin\Debug\net6.0\exmpl_ArrayLib.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\bin\Debug\net6.0\exmpl_ArrayLib.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\refint\exmpl_ArrayLib.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\exmpl_ArrayLib.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_ArrayLib\obj\Debug\net6.0\ref\exmpl_ArrayLib.dll
