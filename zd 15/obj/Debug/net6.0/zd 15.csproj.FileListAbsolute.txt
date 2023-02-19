@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\zd 15\bin\Debug\net6.0\zd 15.exe
+D:\Обучение на проджект-менеджер\Examples\zd 15\bin\Debug\net6.0\zd 15.deps.json
+D:\Обучение на проджект-менеджер\Examples\zd 15\bin\Debug\net6.0\zd 15.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\zd 15\bin\Debug\net6.0\zd 15.dll
+D:\Обучение на проджект-менеджер\Examples\zd 15\bin\Debug\net6.0\zd 15.pdb
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.dll
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\refint\zd 15.dll
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.pdb
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\zd 15.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\zd 15\obj\Debug\net6.0\ref\zd 15.dll
