@@ -10,7 +10,8 @@ void day(int a)
             if (a > 0 && a < 6)
             Console.Write("Это будний день");
             
-            else if (a > 7)
+            else if 4
+            (a > 7)
             Console.Write("В неделе всего 7 дней");
             
             else 
