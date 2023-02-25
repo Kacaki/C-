@@ -32,7 +32,7 @@ void SumArray(int[] arr)
     int sum=0;
     while (index < length)
 {
-    if (index % 2==0)
+    if (index % 2==1)
         sum = (sum +arr[index]);
         index++;
 }
