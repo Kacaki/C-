@@ -9,12 +9,15 @@ void SumArray(int[,] matr)
         for (int i=0; i<matr.GetLength(1); i++)
             {
                 int sum = 0;
+                double razn = 0;
                 for (int j=0; j<matr.GetLength(0); j++)
                     {
                     sum += matr[j, i];
-                         
+                     
                     }
-            Console.WriteLine($"Сумма столбца № {i+1} равна {sum}");
+                    razn=sum/matr.GetLength(1);
+                    Console.WriteLine($"Сумма столбца № {i+1} равна {razn}");  
+                    //Console.WriteLine($"Сумма столбца № {i+1} равна {sum}");
         }
     }
 
@@ -45,7 +48,7 @@ void FillArray(int[,] matr)
             {
                 for (int n=0; n<matr.GetLength(1); n++)
 
-                matr[m,n] = new Random().Next(0,10);
+                matr[m,n] = new Random().Next(1,10);
 
             }
 
@@ -55,9 +58,9 @@ void FillArray(int[,] matr)
 
 
 
-int m = new Random().Next(1,10);
-int n = new Random().Next(1,10);
-int[,] matrix = new int[m,n];
+// int m = new Random().Next(1,10);
+// int n = new Random().Next(1,10);
+int[,] matrix = new int[3,3];
 
 
 FillArray(matrix);
