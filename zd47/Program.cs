@@ -1,4 +1,6 @@
-﻿
+﻿Console.Clear();
+
+
 void PrintArray(int[,] matr)
     {
     
@@ -20,7 +22,7 @@ void FillArray(int[,] matr)
             {
                 for (int j=0; j<matr.GetLength(1); j++)
 
-                matr[i,j] = new Random().Next(1,10);
+                matr[i,j] = new Random().Next(-10,10);
 
             }
 
@@ -28,11 +30,14 @@ void FillArray(int[,] matr)
     }
 
 
+Console.WriteLine("Введите число строк");
+int m = int.Parse(Console.ReadLine());
+Console.WriteLine("Введите число столбцов");
+int n = int.Parse(Console.ReadLine());
 
-int[,] matrix = new int[2,3];
+int[,] matrix = new int[m,n];
 
-PrintArray(matrix);
+
 FillArray(matrix);
-
 Console.WriteLine();
 PrintArray(matrix);

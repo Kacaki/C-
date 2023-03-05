@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\zd47\bin\Debug\net6.0\zd47.exe
+D:\Обучение на проджект-менеджер\Examples\zd47\bin\Debug\net6.0\zd47.deps.json
+D:\Обучение на проджект-менеджер\Examples\zd47\bin\Debug\net6.0\zd47.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\zd47\bin\Debug\net6.0\zd47.dll
+D:\Обучение на проджект-менеджер\Examples\zd47\bin\Debug\net6.0\zd47.pdb
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.dll
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\refint\zd47.dll
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.pdb
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\zd47.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\zd47\obj\Debug\net6.0\ref\zd47.dll
