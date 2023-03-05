@@ -8,16 +8,16 @@ void SumArray(int[,] matr)
            
         for (int i=0; i<matr.GetLength(1); i++)
             {
-                int sum = 0;
+                double sum = 0;
                 double razn = 0;
                 for (int j=0; j<matr.GetLength(0); j++)
                     {
                     sum += matr[j, i];
                      
                     }
-                    razn=sum/matr.GetLength(1);
-                    Console.WriteLine($"Сумма столбца № {i+1} равна {razn}");  
-                    //Console.WriteLine($"Сумма столбца № {i+1} равна {sum}");
+                    razn= Math.Round(sum/matr.GetLength(0), 2);
+                    Console.WriteLine($"Среднее арифметическое столбца № {i+1} равно {razn}");  
+                    
         }
     }
 
@@ -58,9 +58,9 @@ void FillArray(int[,] matr)
 
 
 
-// int m = new Random().Next(1,10);
-// int n = new Random().Next(1,10);
-int[,] matrix = new int[3,3];
+int m = new Random().Next(2,10);
+int n = new Random().Next(2,10);
+int[,] matrix = new int[m,n];
 
 
 FillArray(matrix);
