@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\bin\Debug\net6.0\exmpl_recursion.exe
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\bin\Debug\net6.0\exmpl_recursion.deps.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\bin\Debug\net6.0\exmpl_recursion.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\bin\Debug\net6.0\exmpl_recursion.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\bin\Debug\net6.0\exmpl_recursion.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\refint\exmpl_recursion.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\exmpl_recursion.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_recursion\obj\Debug\net6.0\ref\exmpl_recursion.dll

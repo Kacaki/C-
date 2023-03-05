@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\bin\Debug\net6.0\exmpl_image.exe
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\bin\Debug\net6.0\exmpl_image.deps.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\bin\Debug\net6.0\exmpl_image.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\bin\Debug\net6.0\exmpl_image.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\bin\Debug\net6.0\exmpl_image.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\refint\exmpl_image.dll
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.pdb
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\exmpl_image.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\exmpl_image\obj\Debug\net6.0\ref\exmpl_image.dll
