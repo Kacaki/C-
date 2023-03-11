@@ -1,0 +1,15 @@
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.csproj.AssemblyReference.cache
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.AssemblyInfoInputs.cache
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.AssemblyInfo.cs
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.csproj.CoreCompileInputs.cache
+D:\Обучение на проджект-менеджер\Examples\zd58\bin\Debug\net6.0\zd58.exe
+D:\Обучение на проджект-менеджер\Examples\zd58\bin\Debug\net6.0\zd58.deps.json
+D:\Обучение на проджект-менеджер\Examples\zd58\bin\Debug\net6.0\zd58.runtimeconfig.json
+D:\Обучение на проджект-менеджер\Examples\zd58\bin\Debug\net6.0\zd58.dll
+D:\Обучение на проджект-менеджер\Examples\zd58\bin\Debug\net6.0\zd58.pdb
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.dll
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\refint\zd58.dll
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.pdb
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\zd58.genruntimeconfig.cache
+D:\Обучение на проджект-менеджер\Examples\zd58\obj\Debug\net6.0\ref\zd58.dll
