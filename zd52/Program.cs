@@ -18,7 +18,7 @@ void SumArray(int[,] matr)
                     razn= Math.Round(sum/matr.GetLength(0), 2);
                     Console.WriteLine($"Среднее арифметическое столбца № {i+1} равно {razn}");  
                     
-        }
+            }
     }
 
 
