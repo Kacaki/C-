@@ -2,27 +2,6 @@
 
 
 
-//  int[,] CompArray(int[,] m1, int[,] m2, int[,] r)
-//     {
-                         
-//             for (int i = 0; i < m1.GetLength(0); i++)
-//             {
-//                 for (int j = 0; j < m2.GetLength(1); j++)
-//                 {
-//                     for (int k = 0; k < m2.GetLength(0); k++)
-//                     {
-//                         r[i,j] += m1[i,k] * m2[k,j];
-//                     }
-//                 }
-//             }
-//              return r;
-//         }
-
-
-
-
-
-
 void PrintArray(int[,,] matr)
     {
         
@@ -31,6 +10,7 @@ void PrintArray(int[,,] matr)
             {
                 for (int j=0; j<matr.GetLength(1); j++)
                     {
+                        Console.WriteLine();
                         for (int k=0; k<matr.GetLength(2); k++)
                             {
                             Console.Write($" {matr[i,j,k] }");
@@ -46,9 +26,8 @@ void PrintArray(int[,,] matr)
 
 void FillArray(int[,,] matr)
     {
-        int[] p = new int[8];
+        int p = new Random().Next(0,10);
         
-
         for (int m=0; m<matr.GetLength(0); m++)
             {
                 for (int n=0; n<matr.GetLength(1); n++)
@@ -56,7 +35,8 @@ void FillArray(int[,,] matr)
                         for (int k=0; k<matr.GetLength(2); k++)
                         {
                            
-                            matr[m,n,k] = new Random().Next(1,99);
+                            matr[m,n,k] = p;
+                            p += new Random().Next(10,14);;
                            
                         }
                     
@@ -77,6 +57,6 @@ int[,,] m1 = new int[2,2,2];
 FillArray(m1);
 
 Console.WriteLine();
-Console.WriteLine("Зададим случайным образом трехмерный массив");
+Console.WriteLine("Заполниим массив не повторяющимися значениями");
 
 PrintArray(m1);
